@@ -1,0 +1,13 @@
+.FormBadge{
+    background: #fff;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.10);
+    border-radius: 8px;
+    overflow: hidden;
+
+    padding: 20px;
+    margin-left: 40px;
+}
+h1{
+    display: flex;
+    justify-content: right;
+}
