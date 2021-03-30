@@ -1,5 +1,5 @@
 # Platzi-Badges
-Proyecto Usando React js
+Proyecto usando React js, permite a una empresa registrar, guardar y eliminar los datos de un asistente a una conferencia de interés.
 
 # Instalar proyecto
 npm install
@@ -8,4 +8,4 @@ npm install
 npm run start
 
 # Rama developer
-Creada para experimentar con los componentes de react js y practicar
+Creada para experimentar con los componentes de React js y practicar
